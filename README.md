@@ -14,7 +14,7 @@
 - [停止使用](#停止使用)
 - [开源协议](#开源协议)
 
-## 使用须知
+## 使用须知0
 a
 一切风险与后果由使用者自己承担，与作者无关。
 
@@ -108,7 +108,7 @@ a
         <p align="center"><img src="https://user-images.githubusercontent.com/31768052/75086760-ae0af900-552f-11ea-8ce5-9cd5476dbd50.png"/></p>
     
     3. 根据图片选择
-    
+    n
         <p align="center"><img src="https://user-images.githubusercontent.com/31768052/75086765-b06d5300-552f-11ea-9628-9f5e26c319cc.png"/></p>
     
     4. 点击创建pull request
